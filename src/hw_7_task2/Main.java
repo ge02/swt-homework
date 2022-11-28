@@ -54,7 +54,7 @@ public class Main {
 //	C_Woman.addComponent(Artistic_Gymnastics);
 //	
 //	C_Men.addComponent(Shooting);
-//	
+//
 //	G_Woman.addComponent(Cycling);
 //	G_Woman.addComponent(Tennis);
 //	
