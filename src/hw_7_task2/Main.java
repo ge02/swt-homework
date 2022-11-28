@@ -30,5 +30,42 @@ public class Main {
 	
 //	Olympic.addComponent(Asia);
 
+//	Olympic.addComponent(Europe);
+//	Olympic.addComponent(Africa);
+//	Olympic.addComponent(South_america);
 
+//	Europe.addComponent(Germany);
+//	Europe.addComponent(Italy);
+
+//	Asia.addComponent(China);
+//	China.addComponent(C_Woman);
+//	China.addComponent(C_Men);
+
+//	Germany.addComponent(G_Woman);
+//	Germany.addComponent(G_Men);
+
+//	Italy.addComponent(I_Woman);
+//	Italy.addComponent(I_Men);
+
+//	C_Woman.addComponent(Teakwando);
+//	C_Woman.addComponent(Waterpolo);
+//	C_Woman.addComponent(Artistic_Gymnastics);
+
+//	C_Men.addComponent(Shooting);
+
+//	G_Woman.addComponent(Cycling);
+//	G_Woman.addComponent(Tennis);
+
+//	G_Men.addComponent(Table_Tennis);
+//	G_Men.addComponent(Football);
+
+
+
+//	G_Men.printNameAndNumberAthletes();
+//	System.out.println("\n");
+//	Germany.printNameAndNumberMedals();
+//	System.out.println("\n");
+//	Asia.printNameAndNumberMedals();
+//	System.out.println("\n");
+//	Olympic.printNameAndNumberAthletes();
 }
